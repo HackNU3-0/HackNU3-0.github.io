@@ -107,6 +107,24 @@ section {
   .breadcrumbs {
     margin-top: 57px;
   }
+  .ideation {
+    height: 155px;
+    padding-left: 80px !important;
+}
+.blogathon{
+  padding-left: 90px  !important;
+}
+.content-image {
+  padding-left: 20px !important;
+  padding-right: 40px;
+}
+.image{
+  align-content: center !important;
+  padding-left: 40px !important;
+}
+.image2{
+  padding-right: 100px  !important;
+}
 }
 
 .breadcrumbs h2 {
